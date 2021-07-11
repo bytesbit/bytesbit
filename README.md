@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on Real time items exchange in AR
 - 🤔 I’m looking for help with Competitive Programming
 - 💬 Ask me about: Anything out of the box.
-- 📫 How to reach me: Mail - arun.ku9555@gmail.com | Github - @raghavdhingra | Website - [arunku.com](arunon.online)
+- 📫 How to reach me: Mail - arun.ku9555@gmail.com | Github - [@bytesbit](https://github.com/bytesbit/) | Website - [arunku.com](arunon.online)
 - 😄 Pronouns: CODEy
 - ⚡ Fun fact: Netflix Uses Flask As Backend 🤔
 
