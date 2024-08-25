@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm currently diving deep into the world of IoT wh
 - 🌐 [Personal Website](https://arunon.com)
 - 🐦 [Twitter](https://twitter.com/ak_init)
 - 📧 [Email](mailto:arun.ku9555@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
+- 💼 [LinkedIn](https://www.linkedin.com/)
 
 Looking forward to collaborating and connecting with like-minded tech enthusiasts! 😊
 
