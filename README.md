@@ -1,31 +1,47 @@
-# <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=40 height=40 /> I'm Arun <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="40" height="40" />
+# Hi there, I'm Arun! <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width="40" height="40" />
 
+[![Twitter Badge](https://img.shields.io/badge/-@ArunKumar-1ca0f1?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/ak_init)](https://twitter.com/ak_init)
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:arun.ku9555@gmail.com)](mailto:arun.ku9555@gmail.com)
+![](https://visitor-badge.glitch.me/badge?page_id=bytesbit.bytesbit)
 
-[![Twitter Badge](https://img.shields.io/badge/-@ArunKumar-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/ak_init)](https://twitter.com/ak_init)
-[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:arun.ku9555@gmail..com)](mailto:arun.ku9555@gmail.com)
-![](https://visitor-badge.glitch.me/badge?page_id=arun.arun)
+Welcome to my GitHub profile! I'm currently diving deep into the world of IoT while exploring various technologies to shape the future. Let's connect and create something extraordinary together!
 
-- 📫 Also Visit [arun@github.com](https://bytesbit.github.io)
-- 🔭 I’m currently working on IOT
-- 🌱 I’m learning Art of life with some species of technology
-- 👯 I’m looking to collaborate on Real time items exchange in AR
-- 🤔 I’m looking for help with Competitive Programming
-- 💬 Ask me about: Anything out of the box.
-- 📫 How to reach me: Mail - arun.ku9555@gmail.com | Github - [@bytesbit](https://github.com/bytesbit/) | Website - [arunon.com](https://arunon.com)
-- 😄 Pronouns: CODEy
-- ⚡ Fun fact: Netflix Uses Flask As Backend 🤔
+## 🚀 About Me
 
+- 🔭 **Current Work**: Exploring the realms of **IoT**.
+- 🌱 **Learning**: Mastering the **Art of Life** with a sprinkle of technology.
+- 👯 **Collaboration**: Interested in real-time item exchange projects in **Augmented Reality (AR)**.
+- 🤔 **Looking For Help With**: **Competitive Programming** challenges.
+- 💬 **Ask Me About**: Anything that’s **out of the box**!
+- 📫 **Reach Me At**: 
+  - **Email**: [arun.ku9555@gmail.com](mailto:arun.ku9555@gmail.com)
+  - **GitHub**: [@bytesbit](https://github.com/bytesbit)
+  - **Website**: [arunon.com](https://arun-init.github.io)
+- 😄 **Pronouns**: CODEy
+- ⚡ **Fun Fact**: Did you know that **Netflix** uses **Flask** as a backend framework? 🤔
 
-**Languages and Tools:**  
+## 🛠️ Languages and Tools
 
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png"></code>
-<code><img height="20" src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800-619x619.jpg.webp"></code>
-<code><img height="20" src="https://sentry.io/_assets/logos/django-f6f336cde20615169bbf4441c748188dd9903908bc6af952df3bd8f899c55a41.svg"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png"></code>
-<code><img height="20" src="https://sentry.io/_assets/logos/node-3424bd51a773808e4b2473878d45009ded79ac1a897b64de6fb68b8e0dd4a697.svg"></code>
-<code><img height="20" src="https://www.oracle.com/a/ocom/img/obic-java-cup.svg"></code>
-<code><img height="20" src="https://www.postgresql.org/media/img/about/press/elephant.png"></code>
-<code><img height="20" src="https://avatars3.githubusercontent.com/u/18133"></code>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
+## 📊 GitHub Stats
 
-![Arun github stats](https://github-readme-stats.vercel.app/api?username=bytesbit&show_icons=true&theme=radical)<br> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bytesbit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=bytesbit&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bytesbit&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📫 Let's Connect!
+
+- 🌐 [Personal Website](https://arunon.com)
+- 🐦 [Twitter](https://twitter.com/ak_init)
+- 📧 [Email](mailto:arun.ku9555@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
+
+Looking forward to collaborating and connecting with like-minded tech enthusiasts! 😊
+
